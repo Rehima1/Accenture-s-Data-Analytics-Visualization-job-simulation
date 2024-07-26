@@ -8,12 +8,14 @@ This is Accenture Data Analytics virtual experience project with Forage. The goa
 
 3- Analysis of top 5 pupular categories content
 
--[Google Presentation:](https://docs.google.com/presentation/d/12HDVS12BO7WES3UtSH3SZkM3rIvwrIsd9fsu8ccHgyc/edit?usp=sharing).
+-[Google Presentation:](https://docs.google.com/presentation/d/12HDVS12BO7WES3UtSH3SZkM3rIvwrIsd9fsu8ccHgyc/edit#slide=id.p12)
 
 -[Jupyter notebook:](https://github.com/Rehima1/Accenture-s-Data-Analytics-Visualization-job-simulation/blob/main/TaskTwo__Accenture.ipynb)
 
 ## Power BI
-![Screenshot 2024-07-26 170317](https://github.com/user-attachments/assets/e14742a8-414f-4582-af5f-e18208a974f0)
+
+![Screenshot 2024-07-26 200323](https://github.com/user-attachments/assets/c3e101e2-b85a-47e3-8697-f0f4e3f80f8f)
+
 
 
 
